@@ -15,9 +15,11 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=gurleen-saini&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurleen-saini&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  
+  <!-- Add spacing using margin -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurleen-saini&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="margin-left: 20px;" />
 </div>
 
 ### 🔝 Top Contributed Repo
